@@ -12,5 +12,3 @@ php artisan breeze:install blade
 composer require doctrine/dbal
 
 php artisan make:migration update_user_table_name_to_username --table=users
-
-
